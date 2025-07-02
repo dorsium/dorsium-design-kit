@@ -1,5 +1,9 @@
 # Dorsium Design Kit
 
+🚫 **License Notice:**  
+All assets and designs in this repository are strictly proprietary.  
+**Do NOT use for personal or commercial purposes under any circumstances.**
+
 This repository contains the official design assets, UI references, and visual guidelines used across the Dorsium ecosystem.
 
 ## Folders

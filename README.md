@@ -1,2 +1,15 @@
-# dorsium-design-kit
-Centralized design system and visual identity kit for the entire Dorsium ecosystem. This repository contains shared assets, Figma exports, UI components, and visual references used across all Dorsium apps, tools, and communication surfaces.
+# Dorsium Design Kit
+
+This repository contains the official design assets, UI references, and visual guidelines used across the Dorsium ecosystem.
+
+## Folders
+
+- `dorsium-hub/`: Design kit and layout assets related to the Dorsium public portal (https://dorsium.io)
+
+## Coming soon
+
+- Validator Dashboard
+- DORS Wallet UI
+- NFT Identity & Badges
+- Mobile App Components
+  
